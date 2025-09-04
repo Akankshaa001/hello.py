@@ -23,7 +23,7 @@ else:
     print("Invalid operation!")
 
 # 3. List and loop example
-fruits = ["apple", "banana", "cherry"]
+fruits = ["apple", "banana", "cherry", "graphes"]
 print("Fruits list:")
 for fruit in fruits:
     print(f"- {fruit}")
