@@ -8,8 +8,7 @@ x = 15
 y = 4
 print(f"{x} + {y} = {x + y}")
 print(f"{x} - {y} = {x - y}")
-print(f"{x} * {y} = {x * y}")
-print(f"{x} / {y} = {x / y}")
+
 
 # 3. List iteration
 colors = ["red", "green", "blue"]
